@@ -1,0 +1,11 @@
+C:\Users\ПК-9\source\repos\экзамен измайлов\bin\Debug\экзамен измайлов.exe.config
+C:\Users\ПК-9\source\repos\экзамен измайлов\bin\Debug\экзамен измайлов.exe
+C:\Users\ПК-9\source\repos\экзамен измайлов\bin\Debug\экзамен измайлов.pdb
+C:\Users\ПК-9\source\repos\экзамен измайлов\obj\Debug\экзамен измайлов.csproj.AssemblyReference.cache
+C:\Users\ПК-9\source\repos\экзамен измайлов\obj\Debug\экзамен_измайлов.Form1.resources
+C:\Users\ПК-9\source\repos\экзамен измайлов\obj\Debug\экзамен_измайлов.Properties.Resources.resources
+C:\Users\ПК-9\source\repos\экзамен измайлов\obj\Debug\экзамен измайлов.csproj.GenerateResource.cache
+C:\Users\ПК-9\source\repos\экзамен измайлов\obj\Debug\экзамен измайлов.csproj.CoreCompileInputs.cache
+C:\Users\ПК-9\source\repos\экзамен измайлов\obj\Debug\экзамен измайлов.exe
+C:\Users\ПК-9\source\repos\экзамен измайлов\obj\Debug\экзамен измайлов.pdb
+C:\Users\ПК-9\source\repos\экзамен измайлов\obj\Debug\экзамен_измайлов.Form2.resources
